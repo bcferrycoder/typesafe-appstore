@@ -1,0 +1,18 @@
+store:
+  title: BCFerryCoder Sample Stackato Apps
+  contact: John Wetherill<johnw@activestate.com>
+  icon: https://get.stackato.com/store/icon/activestate.png
+
+apps:
+- name: Typesafe-Stackato
+  id: typesafe-stackato
+  desc: One-click demo of typesafe on Stackato
+  framework: generic
+  runtime: java7
+  src: https://github.com/bcferrycoder/typesafe-stackato.git
+  commit: master
+  info: https://github.com/bcferrycoder/typesafe-stackato.git#readmew
+  info: https://github.com/Stackato-Apps/node-env.git#readme
+  mem: 512M
+  icon: default
+
